@@ -1,4 +1,4 @@
-HAWAIIAN WORD
+//HAWAIIAN WORD
 
 //makeWord(String s) --> creates the response listed on the documentation
 
